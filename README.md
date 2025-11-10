@@ -1,9 +1,6 @@
 # QR Code Studio 📱
 
-A professional Flutter application for **QR Code Generation** and **QR Code Scanning** with a beautiful, modern UI.
-
-![Flutter](https://img.shields.io/badge/Flutter-3.8+-blue.svg)
-![Material Design 3](https://img.shields.io/badge/Material-Design%203-purple.svg)
+A professional Flutter application for QR Code Generation and QR Code Scanning with a beautiful, modern UI.
 
 ## ✨ Features
 
@@ -22,23 +19,6 @@ A professional Flutter application for **QR Code Generation** and **QR Code Scan
 - Android Studio / Xcode
 - Physical device recommended (for camera scanning)
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone <your-repo-url>
-cd qrscanner
-```
-
-2. Install dependencies:
-```bash
-flutter pub get
-```
-
-3. Run the app:
-```bash
-flutter run
-```
 
 ## 📱 Screenshots
 
@@ -87,11 +67,8 @@ dependencies:
 - ✅ Smooth Animations
 - ✅ Responsive Design
 
-## 📖 Documentation
 
-For interview preparation and demo guide, see [DEMO_GUIDE.md](DEMO_GUIDE.md)
-
-## 🔐 Permissions
+##  Permissions
 
 ### Android
 - Camera permission (automatically requested)
@@ -99,18 +76,8 @@ For interview preparation and demo guide, see [DEMO_GUIDE.md](DEMO_GUIDE.md)
 ### iOS
 - Camera usage description configured
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit issues and pull requests.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Developer
-
-Built with ❤️ using Flutter
+Built with using Flutter
 
 ---
 
-**Ready to scan and generate QR codes with style! 🎨**
+**Ready to scan and generate QR codes with style! **
